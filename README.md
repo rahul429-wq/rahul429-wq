@@ -1,9 +1,5 @@
-<h1>Hello</h1>, I'm Bhavik Prajapati ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://giphy.com/embed/ZVik7pBtu9dNS" width="230">
-
-
-
-
+<h1>Hey 🍻 Cheers, I am Bhavik Prajapati</h1>
+<img align='right' src="https://media.giphy.com/media/1lvotGQwhzi6O0gQtV/source.gif" width="230">
 ---
 <!--START_SECTION:waka-->
 **I'm an early 🐤** 
