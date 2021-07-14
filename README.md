@@ -1,5 +1,5 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Bhavik Prajapati ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://giphy.com/embed/ZVik7pBtu9dNS" width="230">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
