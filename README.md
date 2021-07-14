@@ -4,10 +4,8 @@
 <!--START_SECTION:waka-->
 **I'm an early 🐤** 
 
-📊 **This week I spent my time on** 
 
 ```text
-⌚︎ Timezone: Asia/Calcutta
 
 💬 Languages: 
 JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
